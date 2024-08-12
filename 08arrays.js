@@ -1,9 +1,9 @@
-// const myarray=[1,5,5,"hii",true]
+ const myarray=[1,5,5,"hii",true]
 
-// myarray.push("hello")
-// myarray.push("&&&")
-// console.log(myarray);
-// myarray.pop();
+ myarray.push("hello")
+ myarray.push("&&&")
+console.log(myarray);
+myarray.pop();
 
 // console.log(myarray);
 // myarray.unshift(10)
